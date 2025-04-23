@@ -47,6 +47,9 @@ python wx_monitor.py
 8. 监控结束后，会自动生成总结（也可以点击"手动总结当前记录"按钮）
 9. 在"总结"选项卡中查看总结结果，可导出总结
 
+![img_v3_02lk_e0bce119-ed9b-4e2d-aece-9f375e8fcf2g](https://github.com/user-attachments/assets/70fde9e4-b8c0-48c6-9c16-3d84a75c7d0d)
+
+
 ## 配置保存
 
 点击"保存配置"按钮可将当前配置保存至本地，下次启动时会自动加载上次的配置。
