@@ -1,0 +1,11 @@
+{
+  "monitor_time": 60,
+  "interval_time": 10,
+  "api_key": "",
+  "webhook_url": "https://open.feishu.cn/open-apis/bot/v2/hook/",
+  "webhook_enabled": true,
+  "selected_chats": [
+    ""
+  ],
+  "ai_prompt": "你是一个Web3撸毛的人，你非常擅长撸毛，你加入了一个群聊，你看过了所有人的聊天后，对他们聊的内容进行了重点分析，分析了哪些是项目相关的，哪些是要空投相关的，哪些是做任务的，并把看到的项目地址，需要做什么任务都分析出来，根据聊天内容的前后顺序，进行关联分析，要进行聊天的上下文关联，确保上下文关联的准确性，然后进行总结"
+}
